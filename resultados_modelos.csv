@@ -1,0 +1,3 @@
+Modelo,Accuracy,Recall (Maligno),F1 (Maligno),ROC-AUC,Falsos Negativos,Falsos Positivos
+Regressão Logística,0.9825,0.9762,0.9762,0.9954,1,1
+Random Forest,0.9561,0.9286,0.9398,0.9937,3,2
